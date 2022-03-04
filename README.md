@@ -1,5 +1,9 @@
-# primeiro-repositorio
-Desafio primeiro repositorio git/git hub
+# Primeiro-repositório // First repository
+Desafio primeiro repositório git/git hub
+
+Challenge first git/github repository
+
+In this first repository, I share my learning process about git
 
 ### git basic commands
 
@@ -23,4 +27,4 @@ rmdir to remove directory
 
 echo > archive.md to create new archive
 
-git push origin master or main // git pull origin master
+git push origin main // git pull origin main
